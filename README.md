@@ -10,14 +10,16 @@ distance-microservice the distance is measured by adding zip codes for two citie
 
 ## How To Use
 
-Go to [zip code api](https://www.zipcodeapi.com/API),
-Check out the "API Key" on the website and copy it to the ZIPCODE_API_KEY section of service/distance.js.
-
-Then Open the terminal copy The following section：
+Open in your computer
 
 ```
 git clone https://github.com/YuhangZhang2/distance-microservice.git
 ```
+
+Go to [zip code api](https://www.zipcodeapi.com/API),
+Check out the "API Key" on the website and copy it to the ZIPCODE_API_KEY section of service/distance.js.
+
+
 ```
 npm install
 ```
